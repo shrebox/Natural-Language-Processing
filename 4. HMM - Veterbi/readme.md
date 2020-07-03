@@ -2,13 +2,13 @@
 
 ## Walkthrough:
 
-Code: ```Solution.py, train_test_files/create_test.py```
+**Code:** ```Solution.py, train_test_files/create_test.py```
 
-Data files: ```train_test_files/train.txt, train_test_files/test.txt, train_test_files/test_output.txt```
+**Data files:** ```train_test_files/train.txt, train_test_files/test.txt, train_test_files/test_output.txt```
 
-Models: ```models/start_dic.pkl, models/transition_dic.pkl, models/emission_dic.pkl```
+**Models:** ```models/start_dic.pkl, models/transition_dic.pkl, models/emission_dic.pkl```
 
-Report: ```Report.pdf```
+**Report:** ```Report.pdf```
 
 To run python files, ```$ python 'filename'```
 
