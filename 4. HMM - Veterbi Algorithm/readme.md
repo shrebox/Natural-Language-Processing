@@ -1,4 +1,4 @@
-![alt-text](https://github.com/shrebox/Natural-Language-Processing/blob/master/4.%20HMM%20-%20Veterbi/Problem_Statement.jpg)
+![HMM - Viterbi Algorithm](https://github.com/shrebox/Natural-Language-Processing/blob/master/4.%20HMM%20-%20Veterbi%20Algorithm/Problem_Statement.jpg)
 
 ## Walkthrough:
 
