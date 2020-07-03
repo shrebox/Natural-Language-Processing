@@ -9,6 +9,6 @@ This repository includes the codes for the following topics:
 
 Each directory contains these files:
 
-```$ Problem_Statement.jpg``` #the problem statement.
-```$ Solution.py``` #contains the solution code.
-```$ Report.pdf``` #contains the detailed analysis of the problem and it's solution explaination.
+* ```$ Problem_Statement.jpg``` #the problem statement.
+* ```$ Solution.py``` #contains the solution code.
+* ```$ Report.pdf``` #contains the detailed analysis of the problem and it's solution explaination.
