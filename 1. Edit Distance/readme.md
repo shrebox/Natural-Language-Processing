@@ -1,1 +1,1 @@
-![alt text](https://github.com/shrebox/Natural-Language-Processing/tree/master/Problem_Statement.jpg)
+![alt text](https://github.com/shrebox/Natural-Language-Processing/blob/master/Edit%20Distance/Problem_Statement.jpg)
