@@ -2,12 +2,10 @@
 
 ## Walkthrough:
 
-```
-Code: code.py, train_test_files/create_test.py
-Data files: train_test_files/train.txt, train_test_files/test.txt, train_test_files/test_output.txt
-Models: models/start_dic.pkl, models/transition_dic.pkl, models/emission_dic.pkl
-Report: NLP Assignment 4, HMM_Report.pdf
-```
+Code: ```Solution.py, train_test_files/create_test.py```
+Data files: ```train_test_files/train.txt, train_test_files/test.txt, train_test_files/test_output.txt```
+Models: ```models/start_dic.pkl, models/transition_dic.pkl, models/emission_dic.pkl```
+Report: ```Report.pdf```
 
 To run python files, ```$ python 'filename'```
 
@@ -28,4 +26,4 @@ To run python files, ```$ python 'filename'```
 
 ### Report:
 
-Contains the detailed analysis and results for the problem.
+* Contains the detailed analysis and results for the problem.
