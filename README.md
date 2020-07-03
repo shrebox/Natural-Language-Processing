@@ -7,10 +7,8 @@ This repository includes the codes for the following topics:
 3. [Discriminative and Generative Models](https://github.com/shrebox/Natural-Language-Processing/tree/master/3.%20Generative%20and%20Discriminative%20Models)
 4. [HMM - Viterbi Algorithm](https://github.com/shrebox/Natural-Language-Processing/tree/master/4.%20HMM%20-%20Veterbi)
 
-```
 Each directory contains these files:
 
-$ Problem_Statement.jpg #the problem statement.
-$ Solution.py #contains the solution code.
-$ Report.pdf #contains the detailed analysis of the problem and it's solution explaination.
-```
+```$ Problem_Statement.jpg``` #the problem statement.
+```$ Solution.py``` #contains the solution code.
+```$ Report.pdf``` #contains the detailed analysis of the problem and it's solution explaination.
