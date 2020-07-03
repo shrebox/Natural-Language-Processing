@@ -6,8 +6,7 @@ This repository includes the codes for the following topics:
 2. [Regex](https://github.com/shrebox/Natural-Language-Processing/tree/master/2.%20Regex)
 3. [Discriminative and Generative Models](https://github.com/shrebox/Natural-Language-Processing/tree/master/3.%20Generative%20and%20Discriminative%20Models)
 4. [HMM - Viterbi Algorithm](https://github.com/shrebox/Natural-Language-Processing/tree/master/4.%20HMM%20-%20Veterbi)
-5. [NLP Tools](https://github.com/shrebox/Natural-Language-Processing/tree/master/5.%20NLP%20Tools)
-  1. test
+5. [NLP Tools - Word Similarity (word2vec), Document Similarity (Doc2Vec), Spacy (Lemmatization, POS Tagging, NER, Word Similarity)](https://github.com/shrebox/Natural-Language-Processing/tree/master/5.%20NLP%20Tools)
 
 Each directory contains these files:
 
