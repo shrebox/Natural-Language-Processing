@@ -1,11 +1,16 @@
+![alt-text](https://github.com/shrebox/Natural-Language-Processing/blob/master/4.%20HMM%20-%20Veterbi/Problem_Statement.jpg)
+
+
 Author @ Shreyash Arya 2015097
 
+```
 Code: code.py, train_test_files/create_test.py
 Data files: train_test_files/train.txt, train_test_files/test.txt, train_test_files/test_output.txt
 Models: models/start_dic.pkl, models/transition_dic.pkl, models/emission_dic.pkl
 Report: NLP Assignment 4, HMM_Report.pdf
+```
 
-To run python files, $ python 'filename'
+To run python files, ```$ python 'filename'```
 
 'code.py' is used to create the models using train dataset and predict the tags for the test dataset.
 'create_test.py' is used to create the 'train_test_files/test.txt' data file for testing the training accuracy.
