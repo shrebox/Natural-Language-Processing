@@ -1,1 +1,1 @@
-![alt text](https://github.com/shrebox/Natural-Language-Processing/blob/master/1.%20Edit%20Distance/Problem_Statement.jpg)
+![alt text](https://github.com/shrebox/Natural-Language-Processing/blob/master/3.%20Generative%20and%20Discriminative%20Modeling/Problem_Statement.jpg)
