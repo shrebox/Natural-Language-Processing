@@ -16,3 +16,5 @@ Each directory contains these files:
 * ```$ Problem_Statement.jpg``` #the problem statement.
 * ```$ Solution.py``` #contains the solution code.
 * ```$ Report.pdf``` #contains the detailed analysis of the problem and it's solution explaination.
+
+Do checkout the Information Retrieval codes compilation too [here](https://github.com/shrebox/Information-Retrieval)!
