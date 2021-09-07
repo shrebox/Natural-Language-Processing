@@ -22,3 +22,4 @@ Each directory contains these files:
 I'll also try to add resources below this relevant to NLP research:
 
 * https://www.cse.iitd.ac.in/~mausam/courses/col873/spring2020/
+* [ACL Year-Round Mentorship Program](https://mentorship.aclweb.org/Home.html) for NLP.
