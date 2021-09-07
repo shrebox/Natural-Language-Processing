@@ -18,3 +18,7 @@ Each directory contains these files:
 * ```$ Report.pdf``` #contains the detailed analysis of the problem and it's solution explaination.
 
 :alien: Do checkout the **Information Retrieval (IR)** codes compilation too [here](https://github.com/shrebox/Information-Retrieval)!
+
+I'll also try to add resources below this relevant to NLP research:
+
+* https://www.cse.iitd.ac.in/~mausam/courses/col873/spring2020/
